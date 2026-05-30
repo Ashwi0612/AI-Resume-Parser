@@ -33,7 +33,7 @@ Recruiters often receive hundreds of resumes for a single job opening. Manually 
 
 ## Dataset
 
-Dataset: Resume Dataset
+Dataset: https://www.kaggle.com/gauravduttakiit/resume-dataset
 
 Source: Kaggle
 
